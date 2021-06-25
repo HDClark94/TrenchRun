@@ -1,0 +1,23 @@
+{
+    "n_practice_trials": 2,
+    "n_main_trials": 84,
+    "size": 1,
+    "move_cue": false,
+    "variable_cue_contrast": false,
+    "variable_cue_sight": false,
+    "Probe_probability": 0.2,
+    "Non_beaconed_probability": 0.2,
+    "Session_duration": 1000,
+    "track_length_difficulty": "random_incremental_nb",
+    "task": "blackbox2goal",
+    "probe_criteria": 0.75,
+    "gain_std": 0,
+    "gain_range": 3,
+    "show_correct": true,
+    "movement_mechanism": "analogue",
+    "n_scorable_stops": 1,
+    "n_trials_per_track_length": 12,
+    "n_tracks": 7,
+    "sensory_modality": "visual",
+    "sensory_density": "low"
+}
